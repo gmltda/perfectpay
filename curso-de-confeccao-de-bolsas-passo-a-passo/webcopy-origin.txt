@@ -1,0 +1,296 @@
+Uri: https://cdn.positus.global/production/resources/robbu/whatsapp-button/whatsapp-button.css
+File Name: C:\Downloaded Web Sites\vagalimitada.com\production\resources\robbu\whatsapp-button\whatsapp-button.css
+Content Type: text/css
+
+Uri: https://cdn.positus.global/production/resources/robbu/whatsapp-button/whatsapp-icon.svg
+File Name: C:\Downloaded Web Sites\vagalimitada.com\production\resources\robbu\whatsapp-button\whatsapp-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\vagalimitada.com\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\vagalimitada.com\ajax\libs\font-awesome\6.4.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\vagalimitada.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\vagalimitada.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\vagalimitada.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\vagalimitada.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\vagalimitada.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\vagalimitada.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\vagalimitada.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\vagalimitada.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://donaaurea.com/wp-content/uploads/2025/04/Camila-Ribeiro.jpeg
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\04\Camila-Ribeiro.jpeg
+Content Type: image/jpeg
+
+Uri: https://donaaurea.com/wp-content/uploads/2025/04/Juliana-Santos.jpg
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\04\Juliana-Santos.jpg
+Content Type: image/jpeg
+
+Uri: https://donaaurea.com/wp-content/uploads/2025/04/Patricia-Oliveira.jpg
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\04\Patricia-Oliveira.jpg
+Content Type: image/jpeg
+
+Uri: https://donaaurea.com/wp-content/uploads/2025/04/Renata-Almeida.jpg
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\04\Renata-Almeida.jpg
+Content Type: image/jpeg
+
+Uri: https://donaaurea.com/wp-content/uploads/2025/04/Tatiane-Melo.jpeg
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\04\Tatiane-Melo.jpeg
+Content Type: image/jpeg
+
+Uri: https://vagalimitada.com/comments/feed/
+File Name: C:\Downloaded Web Sites\vagalimitada.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vagalimitada.com/curso-de-confeccao-de-bolsas-passo-a-passo/
+File Name: C:\Downloaded Web Sites\vagalimitada.com\curso-de-confeccao-de-bolsas-passo-a-passo\index.htm
+Content Type: text/html
+
+Uri: https://vagalimitada.com/feed/
+File Name: C:\Downloaded Web Sites\vagalimitada.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vagalimitada.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/css/widget-alert.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\css\widget-alert.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/css/widget-testimonial.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\css\widget-testimonial.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\css\widget-video.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-pulse.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.29.0
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeIn.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7-main.min.css?ver=4.11.1
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\themes\astra\assets\css\minified\compatibility\contact-form-7-main.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.11.1
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.11.1
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/compra-com-sucesso-2.gif
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\compra-com-sucesso-2.gif
+Content Type: image/gif
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/foto-270x300.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\foto-270x300.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/foto.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\foto.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/foto2-300x277.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\foto2-300x277.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/foto2.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\foto2.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/foto3-300x277.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\foto3-300x277.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/foto3.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\foto3.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/modulo.fw_-1536x864-1-1024x576.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\modulo.fw_-1536x864-1-1024x576.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/modulo.fw_-1536x864-1-300x169.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\modulo.fw_-1536x864-1-300x169.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/modulo.fw_-1536x864-1-700x394.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\modulo.fw_-1536x864-1-700x394.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/modulo.fw_-1536x864-1-768x432.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\modulo.fw_-1536x864-1-768x432.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/modulo.fw_-1536x864-1.webp
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\modulo.fw_-1536x864-1.webp
+Content Type: image/webp
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/Seguros-1024x137.png
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\Seguros-1024x137.png
+Content Type: image/png
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/Seguros-300x40.png
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\Seguros-300x40.png
+Content Type: image/png
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/Seguros-700x94.png
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\Seguros-700x94.png
+Content Type: image/png
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/Seguros-768x103.png
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\Seguros-768x103.png
+Content Type: image/png
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/01/Seguros.png
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\01\Seguros.png
+Content Type: image/png
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/05/cropped-favicon-180x180.png
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\05\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/05/cropped-favicon-192x192.png
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\05\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://vagalimitada.com/wp-content/uploads/2025/05/cropped-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\2025\05\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://vagalimitada.com/wp-content/uploads/elementor/css/post-1272.css?ver=1747994124
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\elementor\css\post-1272.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/uploads/elementor/css/post-13.css?ver=1747994123
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\elementor\css\post-13.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1742390351
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\elementor\google-fonts\css\montserrat.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1742391135
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\elementor\google-fonts\css\poppins.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742391133
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://vagalimitada.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://vagalimitada.com/wp-json/
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://vagalimitada.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvagalimitada.com%2Fcurso-de-confeccao-de-bolsas-passo-a-passo%2F
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://vagalimitada.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvagalimitada.com%2Fcurso-de-confeccao-de-bolsas-passo-a-passo%2F&format=xml
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://vagalimitada.com/wp-json/wp/v2/pages/1272
+File Name: C:\Downloaded Web Sites\vagalimitada.com\wp-json\wp\v2\pages\1272
+Content Type: application/json
+
+Uri: https://vagalimitada.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\vagalimitada.com\xmlrpc.php
+Content Type: text/xml
+
