@@ -196,7 +196,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 				<div class="elementor-element elementor-element-206dda1b elementor-widget elementor-widget-heading" data-id="206dda1b" data-element_type="widget" data-widget_type="heading.default">
 					<h2 class="elementor-heading-title elementor-size-default">R$10</h2>				</div>
 				<div class="elementor-element elementor-element-425ef36a elementor-align-center elementor-widget elementor-widget-button" data-id="425ef36a" data-element_type="widget" data-widget_type="button.default">
-										<a class="elementor-button elementor-button-link elementor-size-lg" href="#bonus">
+										<a class="elementor-button elementor-button-link elementor-size-lg" href="#COMPRAR">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">QUERO APROVEITAR  </span>
 					</span>
@@ -279,7 +279,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-3e45cffc elementor-align-center elementor-widget elementor-widget-button" data-id="3e45cffc" data-element_type="widget" data-widget_type="button.default">
-										<a class="elementor-button elementor-button-link elementor-size-lg" href="#bonus">
+										<a class="elementor-button elementor-button-link elementor-size-lg" href="#COMPRAR">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">QUERO APROVEITAR</span>
 					</span>
@@ -324,7 +324,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 															<img loading="lazy" decoding="async" width="800" height="800" src="wp-content/uploads/2025/01/E-MUITO-MAIS-1024x1024.png" class="attachment-large size-large wp-image-26" alt="" srcset="wp-content/uploads/2025/01/E-MUITO-MAIS-1024x1024.png 1024w, wp-content/uploads/2025/01/E-MUITO-MAIS-300x300.png 300w, wp-content/uploads/2025/01/E-MUITO-MAIS-150x150.png 150w, wp-content/uploads/2025/01/E-MUITO-MAIS-768x768.png 768w, wp-content/uploads/2025/01/E-MUITO-MAIS.png 1080w" sizes="(max-width: 800px) 100vw, 800px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-c7e941c elementor-align-center elementor-widget elementor-widget-button" data-id="c7e941c" data-element_type="widget" data-widget_type="button.default">
-										<a class="elementor-button elementor-button-link elementor-size-lg" href="#bonus">
+										<a class="elementor-button elementor-button-link elementor-size-lg" href="#COMPRAR">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">QUERO APROVEITAR</span>
 					</span>
@@ -337,7 +337,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		<div class="elementor-element elementor-element-391128dc e-flex e-con-boxed e-con e-parent" data-id="391128dc" data-element_type="container">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-7e1ec036 elementor-widget elementor-widget-menu-anchor" data-id="7e1ec036" data-element_type="widget" data-widget_type="menu-anchor.default">
-							<div class="elementor-menu-anchor" id="bonus"></div>
+							<div class="elementor-menu-anchor" id="COMPRAR"></div>
 						</div>
 				<div class="elementor-element elementor-element-3b6584eb elementor-widget elementor-widget-image" data-id="3b6584eb" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;bounceIn&quot;}" data-widget_type="image.default">
 															<img loading="lazy" decoding="async" width="160" height="160" src="wp-content/uploads/2025/01/wrapped-gift_1f381-1.png" class="attachment-large size-large wp-image-27" alt="" srcset="wp-content/uploads/2025/01/wrapped-gift_1f381-1.png 160w, wp-content/uploads/2025/01/wrapped-gift_1f381-1-150x150.png 150w" sizes="(max-width: 160px) 100vw, 160px">															</div>
@@ -1095,5 +1095,17 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 </script>-->
 <script src="wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.1" id="elementor-frontend-js"></script>
 <script src="wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.7.2" id="pro-preloaded-elements-handlers-js"></script>
-	</div></body>
+	</div>
+<script>document.querySelectorAll('a[href="#COMPRAR"]').forEach(botao => {
+  botao.addEventListener("click", e => {
+    e.preventDefault();
+    const alvo = document.getElementById("COMPRAR");
+    if (alvo) {
+      const posicao = alvo.getBoundingClientRect().top + window.pageYOffset;
+      window.scrollTo({ top: posicao, behavior: "smooth" });
+    }
+  });
+});
+</script>
+</body>
 </html>
