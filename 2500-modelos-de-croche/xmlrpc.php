@@ -2,7 +2,7 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://vagalimitada.com/</homePageLink>
+		<homePageLink>https://vagalimitada.com</homePageLink>
 		<apis>
 			<api name="WordPress" blogID="1" preferred="true" apiLink="https://vagalimitada.com/xmlrpc.php" />
 			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://vagalimitada.com/xmlrpc.php" />

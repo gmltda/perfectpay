@@ -1,0 +1,1244 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\profissionalize.site\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://profissionalize.site/
+File Name: C:\Downloaded Web Sites\profissionalize.site\index.htm
+Content Type: text/html
+
+Uri: https://profissionalize.site/comments/feed/
+File Name: C:\Downloaded Web Sites\profissionalize.site\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://profissionalize.site/feed/
+File Name: C:\Downloaded Web Sites\profissionalize.site\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.26.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.26.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.26.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\conditionals\shapes.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/widget-star-rating.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\widget-star-rating.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\css\widget-toggle.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-pulse.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.28.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInLeft.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\themes\twentytwentyfive\assets\fonts\fira-code\FiraCode-VariableFont_wght.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\themes\twentytwentyfive\assets\fonts\manrope\Manrope-VariableFont_wght.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/themes/twentytwentyfive/style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\themes\twentytwentyfive\style.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/108b9b33502d13e6503f0ac8b9aa1a95.jpg
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\108b9b33502d13e6503f0ac8b9aa1a95.jpg
+Content Type: image/jpeg
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/aretes-flor-amatista-y-peridoto2-768x1044.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\aretes-flor-amatista-y-peridoto2-768x1044.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/brinco-em-resina-08-768x768.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\brinco-em-resina-08-768x768.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/caneta-de-resina-personalizada.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\caneta-de-resina-personalizada.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_40_02-1024x683.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_40_02-1024x683.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_40_02-300x200.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_40_02-300x200.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_40_02-768x512.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_40_02-768x512.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_40_02.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_40_02.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_43_54-1024x683.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_43_54-1024x683.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_43_54-300x200.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_43_54-300x200.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_43_54-768x512.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_43_54-768x512.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_43_54.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_43_54.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-11_25_00-200x300.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-11_25_00-200x300.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-11_25_00-683x1024.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-11_25_00-683x1024.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-11_25_00-768x1152.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-11_25_00-768x1152.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-11_25_00.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-11_25_00.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/chaveiro-de-resina-epoxi-chaveiroletrajresina-epoxi-768x1024.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\chaveiro-de-resina-epoxi-chaveiroletrajresina-epoxi-768x1024.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-37-200x300.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-37-200x300.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-37-683x1024.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-37-683x1024.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-37-768x1152.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-37-768x1152.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-37.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-37.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-38-200x300.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-38-200x300.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-38-683x1024.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-38-683x1024.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-38-768x1152.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-38-768x1152.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-38.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-38.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-41-1.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-41-1.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-43-1.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-43-1.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-44.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-44.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-45-200x300.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-45-200x300.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-45-683x1024.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-45-683x1024.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-45-768x1152.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-45-768x1152.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-45.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-45.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-46-1024x724.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-46-1024x724.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-46-1536x1086.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-46-1536x1086.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-46-300x212.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-46-300x212.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-46-768x543.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-46-768x543.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Design-sem-nome-46.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Design-sem-nome-46.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/ead6aaebd7b3ae8a52baca3844e60579.jpg
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\ead6aaebd7b3ae8a52baca3844e60579.jpg
+Content Type: image/jpeg
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Executiveheadshotupdate_MaryYoung_Global-207x300.jpg
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Executiveheadshotupdate_MaryYoung_Global-207x300.jpg
+Content Type: image/jpeg
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/Executiveheadshotupdate_MaryYoung_Global.jpg
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\Executiveheadshotupdate_MaryYoung_Global.jpg
+Content Type: image/jpeg
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/OIP-8-768x885.jpg
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\OIP-8-768x885.jpg
+Content Type: image/jpeg
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/selo-de-qualidade_1-1-2-1.png-1-150x150.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\selo-de-qualidade_1-1-2-1.png-1-150x150.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/selo-de-qualidade_1-1-2-1.png-1-300x300.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\selo-de-qualidade_1-1-2-1.png-1-300x300.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/2025/03/selo-de-qualidade_1-1-2-1.png-1.png
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\2025\03\selo-de-qualidade_1-1-2-1.png-1.png
+Content Type: image/png
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/css/post-5.css?ver=1743262012
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/css/post-533.css?ver=1744234191
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\css\post-533.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1743265042
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\css\inter.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/css/kanit.css?ver=1743265003
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\css\kanit.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/css/mavenpro.css?ver=1743265009
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\css\mavenpro.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1743262106
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\css\montserrat.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/css/opensans.css?ver=1743264984
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\css\opensans.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1743262082
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\css\poppins.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1743262055
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1743262072
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
+Content Type: text/css
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l0uumjng.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l0uumjng.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l1uumjng.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l1uumjng.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l2uumjng.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l2uumjng.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l3uumjng.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l3uumjng.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l5uum.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l5uum.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l6uumjng.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l6uumjng.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l9uumjng.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l9uumjng.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia0zl7suc.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc73fwrk3iltehus_nvmrmxcp50sjia0zl7suc.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1pl7suc.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1pl7suc.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1zl7.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1zl7.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia25l7suc.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc73fwrk3iltehus_nvmrmxcp50sjia25l7suc.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2jl7suc.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2jl7suc.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2pl7suc.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2pl7suc.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2zl7suc.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2zl7suc.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi4gnza1hmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi4gnza1hmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi4gnzanhmq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi4gnzanhmq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi4gnzaxhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi4gnzaxhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi4gnzbdhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi4gnzbdhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi6miza1hmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi6miza1hmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi6mizanhmq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi6mizanhmq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi6mizaxhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi6mizaxhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi6mizbdhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi6mizbdhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi6wmza1hmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi6wmza1hmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi6wmzanhmq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi6wmzanhmq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi6wmzaxhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi6wmzaxhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi6wmzbdhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi6wmzbdhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi7mlza1hmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi7mlza1hmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi7mlzanhmq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi7mlzanhmq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi7mlzaxhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi7mlzaxhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi7mlzbdhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi7mlzbdhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi82hza1hmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi82hza1hmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi82hzanhmq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi82hzanhmq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi82hzaxhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi82hzaxhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi82hzbdhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi82hzbdhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi92kza1hmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi92kza1hmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi92kzanhmq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi92kzanhmq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi92kzaxhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi92kzaxhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi92kzbdhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi92kzbdhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi_gjza1hmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi_gjza1hmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi_gjzanhmq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi_gjzanhmq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi_gjzaxhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi_gjzaxhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkks-go6g5txcraqi_gjzbdhmwjy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkks-go6g5txcraqi_gjzbdhmwjy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4-orwnvae.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4-orwnvae.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4-orwovaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4-orwovaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4-orwpvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4-orwpvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4-orwzvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4-orwzvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4uphwnvae.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4uphwnvae.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4uphwovaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4uphwovaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4uphwpvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4uphwpvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4uphwzvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4uphwzvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4wpbwnvae.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4wpbwnvae.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4wpbwovaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4wpbwovaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4wpbwpvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4wpbwpvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4wpbwzvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4wpbwzvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4yprwnvae.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4yprwnvae.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4yprwovaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4yprwovaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4yprwpvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4yprwpvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr4yprwzvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr4yprwzvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5aohwnvae.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5aohwnvae.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5aohwovaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5aohwovaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5aohwpvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5aohwpvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5aohwzvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5aohwzvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5kpxwnvae.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5kpxwnvae.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5kpxwovaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5kpxwovaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5kpxwpvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5kpxwpvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5kpxwzvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5kpxwzvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5mobwnvae.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5mobwnvae.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5mobwovaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5mobwovaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5mobwpvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5mobwpvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkku-go6g5txcr5mobwzvaf5nq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkku-go6g5txcr5mobwzvaf5nq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkv-go6g5txcraqi2gwcore.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkv-go6g5txcraqi2gwcore.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkv-go6g5txcraqi2gwfiredfs.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkv-go6g5txcraqi2gwfiredfs.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkv-go6g5txcraqi2gwfyredfs.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkv-go6g5txcraqi2gwfyredfs.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkv-go6g5txcraqi2gwzoredfs.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkv-go6g5txcraqi2gwzoredfs.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkx-go6g5txcr72kw2acjxa.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkx-go6g5txcr72kw2acjxa.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkx-go6g5txcr72kwkaca.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkx-go6g5txcr72kwkaca.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkx-go6g5txcr72kwyacjxa.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkx-go6g5txcr72kwyacjxa.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkx-go6g5txcr72kxaacjxa.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkx-go6g5txcr72kxaacjxa.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkx-go6g5txcraqkw2acjxa.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkx-go6g5txcraqkw2acjxa.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkx-go6g5txcraqkwkaca.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkx-go6g5txcraqkwkaca.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkx-go6g5txcraqkwyacjxa.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkx-go6g5txcraqkwyacjxa.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkx-go6g5txcraqkxaacjxa.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkx-go6g5txcraqkxaacjxa.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkz-go6g5txcraagwcyda.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkz-go6g5txcraagwcyda.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkz-go6g5txcrabgwcyda.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkz-go6g5txcrabgwcyda.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/kanit-nkkz-go6g5txcravgwa.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\kanit-nkkz-go6g5txcravgwa.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/mavenpro-7au9p_aqnywwaxw2wk3gw2qiafg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\mavenpro-7au9p_aqnywwaxw2wk3gw2qiafg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/mavenpro-7au9p_aqnywwaxw2wk3gwmqiafg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\mavenpro-7au9p_aqnywwaxw2wk3gwmqiafg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/mavenpro-7au9p_aqnywwaxw2wk3gzwqi.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\mavenpro-7au9p_aqnywwaxw2wk3gzwqi.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxi7mw9c.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrxi7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxy7mw9c.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrxy7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrys7m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrys7m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrzs7mw9c.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrzs7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459w1hyzbi.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459w1hyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wdhyzbi.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wdhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wrhyzbi.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wrhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wzhyzbi.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wzhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqw106f15m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqw106f15m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwt06f15m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwt06f15m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwte6f15m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwte6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwtk6f15m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwtk6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwtu6f15m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwtu6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwu06f15m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwu06f15m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwuk6f15m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwuk6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwuu6f.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwuu6f.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwvu6f15m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwvu6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwxu6f15m.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwxu6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovts-muw.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovts-muw.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovts2mu1ab.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovts2mu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtscmu1ab.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtscmu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsgmu1ab.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsgmu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtskmu1ab.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtskmu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsomu1ab.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsomu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsumu1ab.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsumu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsymu1ab.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsymu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtugmu1ab.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtugmu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtvomu1ab.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtvomu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tcmpi.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxiayp8kv8jhgfvrjjlme0tcmpi.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tmmpkzsq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxiayp8kv8jhgfvrjjlme0tmmpkzsq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlbt5z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlbt5z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlcz7z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlcz7z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldd4z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldd4z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldz8z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldz8z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlej6z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlej6z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlfj_z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlfj_z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlgt9z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlgt9z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vf9eo.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm111vf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm111vgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvf9eo.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm21lvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm21lvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvf9eo.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm81xvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm81xvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvf9eo.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmg1hvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmg1hvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vf9eo.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmr19vf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmr19vgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvf9eo.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmv1pvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmv1pvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vf9eo.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmy15vf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmy15vgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjfecg.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxieyp8kv8jhgfvrjjfecg.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjnecmne.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxieyp8kv8jhgfvrjjnecmne.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjluchta.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrjjluchta.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjlufntakpy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrjjlufntakpy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptuchta.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrlptuchta.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptufntakpy.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrlptufntakpy.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/108b9b33502d13e6503f0ac8b9aa1a95.jpg.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\108b9b33502d13e6503f0ac8b9aa1a95.jpg.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_40_02-1024x683.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_40_02-1024x683.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_40_02-300x200.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_40_02-300x200.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_40_02-768x512.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_40_02-768x512.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_40_02.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_40_02.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_43_54-1024x683.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_43_54-1024x683.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_43_54-300x200.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_43_54-300x200.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_43_54-768x512.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_43_54-768x512.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-10_43_54.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-10_43_54.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-11_25_00-200x300.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-11_25_00-200x300.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-11_25_00-683x1024.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-11_25_00-683x1024.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-11_25_00-768x1152.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-11_25_00-768x1152.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ChatGPT-Image-29-de-mar.-de-2025-11_25_00.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ChatGPT-Image-29-de-mar.-de-2025-11_25_00.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-37-200x300.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-37-200x300.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-37-683x1024.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-37-683x1024.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-37-768x1152.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-37-768x1152.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-37.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-37.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-38-200x300.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-38-200x300.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-38-683x1024.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-38-683x1024.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-38-768x1152.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-38-768x1152.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-38.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-38.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-41-1.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-41-1.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-43-1.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-43-1.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-44.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-44.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-45-200x300.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-45-200x300.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-45-683x1024.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-45-683x1024.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-45-768x1152.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-45-768x1152.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-45.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-45.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-46-1024x724.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-46-1024x724.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-46-1536x1086.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-46-1536x1086.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-46-300x212.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-46-300x212.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-46-768x543.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-46-768x543.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Design-sem-nome-46.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Design-sem-nome-46.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/ead6aaebd7b3ae8a52baca3844e60579.jpg.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\ead6aaebd7b3ae8a52baca3844e60579.jpg.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Executiveheadshotupdate_MaryYoung_Global-207x300.jpg.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Executiveheadshotupdate_MaryYoung_Global-207x300.jpg.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/Executiveheadshotupdate_MaryYoung_Global.jpg.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\Executiveheadshotupdate_MaryYoung_Global.jpg.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/OIP-8-768x885.jpg.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\OIP-8-768x885.jpg.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/selo-de-qualidade_1-1-2-1.png-1-150x150.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\selo-de-qualidade_1-1-2-1.png-1-150x150.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/selo-de-qualidade_1-1-2-1.png-1-300x300.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\selo-de-qualidade_1-1-2-1.png-1-300x300.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-content/webp-express/webp-images/uploads/2025/03/selo-de-qualidade_1-1-2-1.png-1.png.webp
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-content\webp-express\webp-images\uploads\2025\03\selo-de-qualidade_1-1-2-1.png-1.png.webp
+Content Type: image/webp
+
+Uri: https://profissionalize.site/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://profissionalize.site/wp-json/
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://profissionalize.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fprofissionalize.site%2F
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://profissionalize.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fprofissionalize.site%2F&format=xml
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://profissionalize.site/wp-json/wp/v2/pages/533
+File Name: C:\Downloaded Web Sites\profissionalize.site\wp-json\wp\v2\pages\533
+Content Type: application/json
+
+Uri: https://profissionalize.site/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\profissionalize.site\xmlrpc.php
+Content Type: text/xml
+
