@@ -1,0 +1,1516 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#fdf6ef">
+    <meta name="description"
+        content="Curso Bordado Livre - Passo a Passo. Aprenda do zero com vídeo-aulas e grupo exclusivo. De R$97,90 por R$19,90 à vista.">
+    <title>Bordado Livre - Passo a Passo | De R$97,90 por R$19,90</title>
+
+    <link rel="icon" type="image/png" href="assets/favicon-logo.png">
+
+    <!-- Meta Tags para Compartilhamento -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Bordado Livre - Passo a Passo | De R$97,90 por R$19,90">
+    <meta property="og:description" content="Aprenda bordado livre do zero ao avançado com vídeo-aulas passo a passo.">
+    <meta property="og:image" content="assets/logo-favicon.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Bordado Livre - Passo a Passo | De R$97,90 por R$19,90">
+    <meta name="twitter:description" content="Aprenda bordado livre do zero ao avançado com vídeo-aulas passo a passo.">
+    <meta name="twitter:image" content="assets/logo-favicon.png">
+
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WWX5XB9');</script>
+    <!-- End Google Tag Manager -->
+
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css">
+
+
+    <style>
+        :root {
+            --cream: #fdf6ef;
+            --cream-2: #f6ead9;
+            --ink: #2b1d18;
+            --ink-soft: #5a4a43;
+            --coral: #e87b6f;
+            --coral-dark: #c95548;
+            --coral-soft: #fbe4df;
+            --gold: #c89a5a;
+            --green: #1f9d55;
+            --green-dark: #168146;
+            --shadow: 0 12px 32px -12px rgba(43, 29, 24, .18);
+            --shadow-lg: 0 24px 60px -20px rgba(43, 29, 24, .32);
+            --radius: 14px;
+            --radius-lg: 24px;
+
+            --plyr-color-main: var(--coral-dark);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0
+        }
+
+        html {
+            scroll-behavior: smooth;
+            -webkit-text-size-adjust: 100%
+        }
+
+        body {
+            font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--ink);
+            background: var(--cream);
+            overflow-x: hidden;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block
+        }
+
+        button,
+        a {
+            font-family: inherit
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none
+        }
+
+        .serif {
+            font-weight: 600;
+            letter-spacing: -.01em
+        }
+
+        .container {
+            width: 100%;
+            max-width: 760px;
+            margin: 0 auto;
+            padding: 0 20px
+        }
+
+        .text-coral {
+            color: var(--coral-dark)
+        }
+
+        .highlight {
+            background: linear-gradient(180deg, transparent 60%, var(--coral-soft) 60%);
+            padding: 0 4px
+        }
+
+        /* ============ TOP BAR ============ */
+        .topbar {
+            background: var(--ink);
+            color: var(--cream);
+            text-align: center;
+            font-size: 13px;
+            font-weight: 500;
+            padding: 10px 16px;
+            letter-spacing: .02em;
+            position: sticky;
+            top: 0;
+            z-index: 50;
+        }
+
+        .topbar strong {
+            color: #ffd966
+        }
+
+        .topbar .pulse {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background: #ff5252;
+            border-radius: 50%;
+            margin-right: 6px;
+            animation: pulse 1.5s ease-in-out infinite;
+            vertical-align: middle
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+                transform: scale(1)
+            }
+
+            50% {
+                opacity: .5;
+                transform: scale(1.3)
+            }
+        }
+
+        /* ============ HERO ============ */
+        .hero {
+            background:
+                radial-gradient(ellipse at top right, var(--coral-soft) 0%, transparent 55%),
+                radial-gradient(ellipse at bottom left, #f1e0c7 0%, transparent 55%),
+                var(--cream);
+            padding: 30px 0 50px;
+            position: relative;
+        }
+
+        .hero::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='.5' fill='%232b1d18' opacity='.06'/></svg>");
+            background-size: 24px 24px;
+            pointer-events: none;
+        }
+
+        .hero-inner {
+            position: relative;
+            z-index: 1;
+            text-align: center
+        }
+
+        .brand-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 255, 255, .7);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(232, 123, 111, .25);
+            padding: 7px 16px;
+            border-radius: 99px;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: .12em;
+            text-transform: uppercase;
+            color: var(--coral-dark);
+            margin-bottom: 18px;
+        }
+
+        .brand-tag::before {
+            content: "✦";
+            color: var(--coral)
+        }
+
+        h1.hero-title {
+            font-weight: 700;
+            font-size: clamp(28px, 7vw, 46px);
+            line-height: 1.15;
+            letter-spacing: -.02em;
+            color: var(--ink);
+            margin-bottom: 18px;
+        }
+
+        h1.hero-title em {
+            font-style: normal;
+            color: var(--coral-dark);
+            font-weight: 700
+        }
+
+        .hero-sub {
+            font-size: clamp(15px, 4vw, 18px);
+            color: var(--ink-soft);
+            max-width: 560px;
+            margin: 0 auto 28px;
+            line-height: 1.55;
+        }
+
+        .hero-sub b {
+            color: var(--ink);
+            font-weight: 600
+        }
+
+        /* Video */
+        .video-wrap {
+            position: relative;
+            max-width: 560px;
+            margin: 0 auto 28px;
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            box-shadow: var(--shadow-lg);
+            aspect-ratio: 16/9;
+            background: #000 url('assets/video-thumb.png') center/cover no-repeat;
+            cursor: pointer;
+        }
+
+
+
+
+        .video-wrap .plyr--video {
+            background: transparent !important;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+
+        .video-wrap .plyr__controls {
+            background: var(--ink) !important;
+            backdrop-filter: blur(4px);
+            color: var(--ink) !important;
+            border-radius: 0 0 var(--radius-lg) var(--radius-lg);
+            padding: 10px 15px !important;
+        }
+
+        .plyr--video .plyr__control:focus-visible,
+        .plyr--video .plyr__control:hover,
+        .plyr--video .plyr__control[aria-expanded=true] {
+            color: var(--ink) !important;
+        }
+
+        .plyr__control {
+            background: var(--coral-dark) !important;
+        }
+
+        .video-thumb {
+            position: absolute;
+            inset: 0;
+            background-image: url('assets/video-thumb.png');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform .3s ease;
+        }
+
+        .video-thumb:hover {
+            transform: scale(1.02)
+        }
+
+        .play-btn {
+            width: 74px;
+            height: 74px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, .95);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, .3);
+            animation: pulseBig 2.4s ease-in-out infinite;
+        }
+
+        @keyframes pulseBig {
+
+            0%,
+            100% {
+                box-shadow: 0 8px 30px rgba(0, 0, 0, .3), 0 0 0 0 rgba(232, 123, 111, .6)
+            }
+
+            50% {
+                box-shadow: 0 8px 30px rgba(0, 0, 0, .3), 0 0 0 18px rgba(232, 123, 111, 0)
+            }
+        }
+
+        .play-btn svg {
+            width: 30px;
+            height: 30px;
+            fill: var(--coral-dark);
+            margin-left: 4px
+        }
+
+        /* Price Card */
+        .price-card {
+            background: #fff;
+            border-radius: var(--radius-lg);
+            padding: 24px 22px;
+            max-width: 440px;
+            margin: 0 auto;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid rgba(43, 29, 24, .06);
+            position: relative;
+        }
+
+        .price-card .ribbon {
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--coral-dark);
+            color: #fff;
+            font-size: 11px;
+            font-weight: 700;
+            letter-spacing: .14em;
+            text-transform: uppercase;
+            padding: 6px 14px;
+            border-radius: 99px;
+            white-space: nowrap;
+        }
+
+        .old-price {
+            color: var(--ink-soft);
+            font-size: 14px;
+            margin-bottom: 4px;
+        }
+
+        .old-price s {
+            opacity: .7
+        }
+
+        .price-now {
+            font-size: 48px;
+            font-weight: 700;
+            line-height: 1;
+            color: var(--coral-dark);
+            margin: 8px 0 4px;
+            letter-spacing: -.02em;
+        }
+
+        .price-now small {
+            font-size: 22px;
+            color: var(--ink-soft);
+            font-weight: 400
+        }
+
+        .installments {
+            font-size: 14px;
+            color: var(--ink-soft);
+            margin-bottom: 18px;
+        }
+
+        .installments b {
+            color: var(--ink);
+            font-weight: 600
+        }
+
+        .cta-btn {
+            display: block;
+            width: 100%;
+            background: var(--green);
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            font-weight: 700;
+            font-size: 17px;
+            letter-spacing: .02em;
+            padding: 18px 0px;
+            border-radius: 99px;
+            box-shadow: 0 8px 24px -6px rgba(31, 157, 85, .5);
+            transition: all .25s ease;
+            position: relative;
+            overflow: hidden;
+            text-align: center;
+        }
+
+        .cta-btn::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(120deg, transparent 30%, rgba(255, 255, 255, .3) 50%, transparent 70%);
+            transform: translateX(-100%);
+            animation: shine 3s ease-in-out infinite;
+        }
+
+        @keyframes shine {
+
+            0%,
+            40% {
+                transform: translateX(-100%)
+            }
+
+            60%,
+            100% {
+                transform: translateX(100%)
+            }
+        }
+
+        .cta-btn:hover {
+            background: var(--green-dark);
+            transform: translateY(-2px);
+            box-shadow: 0 12px 30px -6px rgba(31, 157, 85, .6)
+        }
+
+        .cta-btn:active {
+            transform: translateY(0)
+        }
+
+        .cta-btn .arrow {
+            display: inline-block;
+            margin-left: 6px;
+            transition: transform .2s ease
+        }
+
+        .cta-btn:hover .arrow {
+            transform: translateX(4px)
+        }
+
+        .pay-methods {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 14px;
+            margin-top: 14px;
+            font-size: 12px;
+            color: var(--ink-soft);
+            font-weight: 500;
+        }
+
+        .pay-methods .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: var(--cream-2);
+            padding: 6px 12px;
+            border-radius: 99px;
+            font-weight: 600;
+            color: var(--ink);
+        }
+
+        .trust-row {
+            display: flex;
+            justify-content: center;
+            gap: 18px;
+            flex-wrap: wrap;
+            margin-top: 18px;
+            font-size: 12px;
+            color: var(--ink-soft);
+            font-weight: 500;
+        }
+
+        .trust-row span {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px
+        }
+
+        .trust-row svg {
+            width: 14px;
+            height: 14px;
+            fill: var(--green)
+        }
+
+        /* ============ SECTIONS ============ */
+        section {
+            padding: 60px 0;
+            position: relative
+        }
+
+        .section-tag {
+            display: inline-block;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: .16em;
+            text-transform: uppercase;
+            color: var(--coral-dark);
+            margin-bottom: 14px;
+        }
+
+        h2.section-title {
+            font-weight: 700;
+            font-size: clamp(26px, 5.5vw, 38px);
+            line-height: 1.2;
+            letter-spacing: -.02em;
+            margin-bottom: 14px;
+        }
+
+        h2.section-title em {
+            font-style: normal;
+            color: var(--coral-dark);
+            font-weight: 700
+        }
+
+        .section-lead {
+            color: var(--ink-soft);
+            font-size: clamp(15px, 3.8vw, 17px);
+            max-width: 560px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .section-head {
+            text-align: center;
+            margin-bottom: 40px
+        }
+
+        /* ============ BENEFITS ============ */
+        .benefits {
+            background: #fff
+        }
+
+        .benefit-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 18px;
+        }
+
+        .benefit {
+            display: flex;
+            gap: 16px;
+            align-items: flex-start;
+            padding: 22px;
+            background: var(--cream);
+            border-radius: var(--radius);
+            border: 1px solid rgba(43, 29, 24, .05);
+        }
+
+        .benefit-ic {
+            flex-shrink: 0;
+            width: 48px;
+            height: 48px;
+            background: var(--coral-soft);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+        }
+
+        .benefit h3 {
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 1.3;
+            margin-bottom: 6px;
+        }
+
+        .benefit p {
+            font-size: 14.5px;
+            color: var(--ink-soft);
+            line-height: 1.55
+        }
+
+        /* ============ GALLERY ============ */
+        .gallery {
+            background: var(--cream-2);
+            overflow: hidden
+        }
+
+        .gallery-scroller {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 14px;
+            padding: 0 20px 20px;
+        }
+
+        .gallery-item {
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            overflow: hidden;
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 100%;
+            display: block;
+            object-fit: cover;
+            transition: transform .4s ease;
+        }
+
+        .gallery-item:hover img {
+            transform: scale(1.05);
+        }
+
+        /* Tablet */
+        @media (max-width: 1024px) {
+            .gallery-scroller {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        /* Mobile: 2 imagens por linha */
+        @media (max-width: 768px) {
+            .gallery-scroller {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+                padding: 0 16px 16px;
+            }
+        }
+
+        /* ============ TESTIMONIALS ============ */
+        .testimonials {
+            background: #fff
+        }
+
+        .testi-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+        }
+
+        .testi-card {
+            width: 100%;
+            /*aspect-ratio: 1 / 1.25;*/
+            overflow: hidden;
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+            background: #fff;
+        }
+
+        .testi-card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+
+        /* Mobile: 2 cards por linha */
+        @media (max-width: 768px) {
+            .testi-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+            }
+        }
+
+        /* ============ BONUSES ============ */
+        .bonuses {
+            background: linear-gradient(180deg, var(--cream) 0%, #f1e0c7 100%);
+            position: relative;
+        }
+
+        .bonus-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 18px;
+            margin-bottom: 30px;
+        }
+
+        .bonus {
+            background: #fff;
+            border-radius: var(--radius-lg);
+            padding: 22px;
+            display: flex;
+            gap: 18px;
+            align-items: center;
+            box-shadow: var(--shadow);
+            border: 1px solid rgba(43, 29, 24, .05);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .bonus::before {
+            content: "BÔNUS";
+            position: absolute;
+            top: 14px;
+            right: -30px;
+            background: var(--coral-dark);
+            color: #fff;
+            font-size: 10px;
+            font-weight: 700;
+            letter-spacing: .15em;
+            padding: 4px 36px;
+            transform: rotate(40deg);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, .15);
+        }
+
+        .bonus-img {
+            flex-shrink: 0;
+            width: 90px;
+            height: 90px;
+            border-radius: 12px;
+            overflow: hidden;
+            background: var(--cream-2);
+        }
+
+        .bonus-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover
+        }
+
+        .bonus-body {
+            flex: 1;
+            min-width: 0
+        }
+
+        .bonus-body h3 {
+            font-weight: 700;
+            font-size: 17px;
+            line-height: 1.25;
+            margin-bottom: 6px;
+        }
+
+        .bonus-body p {
+            font-size: 13.5px;
+            color: var(--ink-soft);
+            line-height: 1.5;
+            margin-bottom: 8px
+        }
+
+        .bonus-price {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--coral-dark)
+        }
+
+        .bonus-price s {
+            opacity: .6;
+            font-weight: 400;
+            color: var(--ink-soft);
+            margin-right: 6px
+        }
+
+        .value-stack {
+            background: var(--ink);
+            color: var(--cream);
+            border-radius: var(--radius-lg);
+            padding: 28px 22px;
+            text-align: center;
+            box-shadow: var(--shadow-lg);
+        }
+
+        .value-stack p {
+            font-size: 14px;
+            opacity: .8;
+            margin-bottom: 6px
+        }
+
+        .value-stack .crossed {
+            font-size: 32px;
+            font-weight: 600;
+            text-decoration: line-through;
+            text-decoration-color: var(--coral);
+            text-decoration-thickness: 3px;
+            opacity: .7;
+            margin-bottom: 10px;
+        }
+
+        .value-stack .new-val {
+            font-size: 44px;
+            font-weight: 800;
+            color: var(--coral-dark);
+            line-height: 1;
+            letter-spacing: -.02em;
+        }
+
+        /* ============ GUARANTEE ============ */
+        .guarantee {
+            background: #fff
+        }
+
+        .guarantee-box {
+            display: flex;
+            gap: 24px;
+            align-items: center;
+            background: var(--cream);
+            border-radius: var(--radius-lg);
+            padding: 28px 22px;
+            border: 2px dashed var(--coral);
+        }
+
+        .guarantee-box img {
+            width: 100px;
+            flex-shrink: 0
+        }
+
+        .guarantee-box h3 {
+            font-weight: 700;
+            font-size: 22px;
+            margin-bottom: 8px;
+        }
+
+        .guarantee-box p {
+            font-size: 14.5px;
+            color: var(--ink-soft);
+            line-height: 1.55
+        }
+
+        /* ============ MEDIA ============ */
+        .media {
+            background: var(--cream)
+        }
+
+        .media-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 10px;
+        }
+
+        /* Mobile */
+        @media (max-width: 768px) {
+            .media-grid {
+                display: block;
+            }
+
+            .media {
+                padding-bottom: 0;
+            }
+
+            .media-grid img {
+                margin-bottom: 10px;
+            }
+        }
+
+        .media-grid img {
+            width: 100%;
+            border-radius: 10px;
+            box-shadow: var(--shadow);
+        }
+
+        /* ============ FINAL CTA ============ */
+        .final-cta {
+            background:
+                radial-gradient(ellipse at center, var(--coral-soft) 0%, transparent 60%),
+                var(--cream);
+            text-align: center;
+            padding: 70px 0;
+        }
+
+        .final-cta h2 {
+            font-weight: 800;
+            font-size: clamp(28px, 6.5vw, 42px);
+            line-height: 1.15;
+            letter-spacing: -.02em;
+            margin-bottom: 16px;
+        }
+
+        .final-cta h2 em {
+            font-style: normal;
+            color: var(--coral-dark);
+            font-weight: 800
+        }
+
+        .final-cta .lead {
+            color: var(--ink-soft);
+            font-size: 16px;
+            max-width: 520px;
+            margin: 0 auto 30px;
+        }
+
+        /* ============ FAQ ============ */
+        .faq {
+            background: #fff
+        }
+
+        .faq-list {
+            max-width: 640px;
+            margin: 0 auto
+        }
+
+        .faq-item {
+            border-bottom: 1px solid rgba(43, 29, 24, .1);
+            padding: 18px 0;
+        }
+
+        .faq-q {
+            font-weight: 700;
+            font-size: 17px;
+            line-height: 1.3;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            gap: 14px;
+        }
+
+        .faq-q::after {
+            content: "+";
+            font-weight: 300;
+            font-size: 28px;
+            color: var(--coral-dark);
+            flex-shrink: 0;
+            transition: transform .3s ease;
+            line-height: 1;
+        }
+
+        .faq-item.open .faq-q::after {
+            transform: rotate(45deg)
+        }
+
+        .faq-a {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height .35s ease, padding .35s ease;
+            color: var(--ink-soft);
+            font-size: 14.5px;
+            line-height: 1.6;
+        }
+
+        .faq-item.open .faq-a {
+            max-height: 300px;
+            padding-top: 14px
+        }
+
+        /* ============ FOOTER ============ */
+        footer {
+            background: var(--ink);
+            color: #a99b94;
+            padding: 40px 20px 30px;
+            text-align: center;
+            font-size: 13px;
+            line-height: 1.7;
+        }
+
+        footer a {
+            color: var(--cream);
+            text-decoration: underline;
+            text-decoration-color: rgba(255, 255, 255, .3)
+        }
+
+        footer a:hover {
+            text-decoration-color: var(--cream)
+        }
+
+        footer .ftlinks {
+            margin-bottom: 14px
+        }
+
+        footer .ftlinks a {
+            margin: 0 10px
+        }
+
+        footer .copy {
+            opacity: .6;
+            font-size: 11.5px
+        }
+
+        /* ============ STICKY BOTTOM CTA ============ */
+        .sticky-bottom {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #fff;
+            border-top: 1px solid rgba(43, 29, 24, .08);
+            padding: 10px 16px;
+            z-index: 40;
+            box-shadow: 0 -8px 24px -8px rgba(0, 0, 0, .15);
+            transform: translateY(100%);
+            transition: transform .35s ease;
+        }
+
+        .sticky-bottom.visible {
+            transform: translateY(0)
+        }
+
+        .sticky-bottom-inner {
+            max-width: 760px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .sticky-price {
+            flex: 1;
+            min-width: 0
+        }
+
+        .sticky-price .small {
+            font-size: 11px;
+            color: var(--ink-soft);
+            line-height: 1
+        }
+
+        .sticky-price .big {
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 1.1;
+            color: var(--coral-dark);
+        }
+
+        .sticky-price .big s {
+            color: var(--ink-soft);
+            font-size: 14px;
+            font-weight: 400;
+            margin-right: 6px;
+            opacity: .6
+        }
+
+        .sticky-bottom .cta-btn {
+            width: auto;
+            flex: 1.2;
+            padding: 14px 18px;
+            font-size: 14px;
+        }
+
+        /* ============ RESPONSIVE ============ */
+        @media (min-width:640px) {
+            .benefit-grid {
+                grid-template-columns: 1fr 1fr 1fr
+            }
+
+            .bonus-grid {
+                grid-template-columns: 1fr 1fr
+            }
+        }
+
+        @media (min-width:900px) {
+            .container {
+                max-width: 960px
+            }
+
+            .guarantee-box {
+                padding: 36px
+            }
+
+            .guarantee-box img {
+                width: 140px
+            }
+
+            .cert-flex {
+                flex-direction: row;
+                text-align: left
+            }
+
+            .cert-flex .cert-txt {
+                flex: 1
+            }
+        }
+
+        /* Hide sticky on desktop where price is more visible */
+        @media (min-width:1024px) {
+            .sticky-bottom {
+                display: none
+            }
+        }
+
+        /* Mobile padding adjust for sticky */
+        @media (max-width:1023px) {
+            body.has-sticky {
+                padding-bottom: 84px
+            }
+        }
+    </style>
+
+<!-- UTMify -->
+<script
+  src="https://cdn.utmify.com.br/scripts/utms/latest.js"
+  data-utmify-prevent-xcod-sck
+  data-utmify-prevent-subids
+  data-utmify-ignore-iframe
+  data-utmify-is-cartpanda
+  async
+  defer
+></script>
+</head>
+
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWX5XB9" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="topbar">
+        <span class="pulse"></span> <strong>PRESTE A EXPIRAR:</strong><br>de <s>R$97,90</s> por apenas R$19,90 — <span style="background: var(--coral-dark);padding: 3px;border-radius: 5px;">só hoje</span>
+    </div>
+
+    <!-- HERO -->
+    <section class="hero">
+        <div class="container hero-inner">
+            <div class="brand-tag">Mais de 30 mil alunas</div>
+            <h1 class="hero-title">
+                Comece no <em>Bordado Livre</em> hoje e faça peças lindas mesmo sendo iniciante
+            </h1>
+            <p class="hero-sub">
+                Aprenda do <b>zero ao avançado</b> com vídeo-aulas passo a passo e <b>grupo exclusivo no Whatsapp</b>.
+                Acesso imediato e vitalício.
+            </p>
+
+            <div class="video-wrap" id="videoWrap" onclick="loadVideo()">
+                <div class="video-thumb" id="videoThumb">
+                    <div class="play-btn">
+                        <svg viewBox="0 0 24 24">
+                            <path d="M8 5v14l11-7z" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <div class="price-card">
+                <span class="ribbon">Preste a Expirar...</span>
+                <div class="old-price">De <s>R$ 97,90</s> por apenas</div>
+                <div class="price-now">R$ 19,90<small> à vista</small></div>
+                <div class="installments">ou <b>3x de R$ 6,63</b> sem juros no cartão</div>
+
+                <a href="https://app.ultimavagas.com/checkout/oferta-87af9a91" class="cta-btn" data-cta="hero">
+                    QUERO COMEÇAR AGORA <span class="arrow">→</span>
+                </a>
+
+                <div class="pay-methods">
+                    <span class="badge">💳 Cartão</span>
+                    <span class="badge">⚡ PIX</span>
+                </div>
+
+                <div class="trust-row">
+                    <span><svg viewBox="0 0 24 24">
+                            <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" stroke="currentColor" fill="none"
+                                stroke-width="2" />
+                        </svg> Acesso imediato</span>
+                    <span><svg viewBox="0 0 24 24">
+                            <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" stroke="currentColor" fill="none"
+                                stroke-width="2" />
+                        </svg> 7 dias de garantia</span>
+                    <span><svg viewBox="0 0 24 24">
+                            <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" stroke="currentColor" fill="none"
+                                stroke-width="2" />
+                        </svg> Compra 100% segura</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- BENEFITS -->
+    <section class="benefits">
+        <div class="container">
+            <div class="section-head">
+                <span class="section-tag">Vantagens do curso</span>
+                <h2 class="section-title">Tudo que você precisa para <em>dominar o bordado</em></h2>
+            </div>
+            <div class="benefit-grid">
+                <div class="benefit">
+                    <div class="benefit-ic">🎯</div>
+                    <div>
+                        <h3>Comece do zero</h3>
+                        <p>Não precisa de experiência. Aulas passo a passo guiam você desde a primeira agulhada.</p>
+                    </div>
+                </div>
+                <div class="benefit">
+                    <div class="benefit-ic">🪡</div>
+                    <div>
+                        <h3>Técnicas avançadas</h3>
+                        <p>Já borda? Vai aperfeiçoar pontos, riscos e acabamentos profissionais.</p>
+                    </div>
+                </div>
+                <div class="benefit">
+                    <div class="benefit-ic">💰</div>
+                    <div>
+                        <h3>Renda extra em casa</h3>
+                        <p>Entre num dos mercados artesanais que mais cresce e venda seus bordados.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- GALLERY -->
+    <section class="gallery">
+        <div class="section-head container">
+            <span class="section-tag">No Grupo do WhatsApp</span>
+            <h2 class="section-title">Feitos por <em>alunas que postaram no grupo</em></h2>
+            <p class="section-lead">Elas começaram do zero não sabiam bordar</p>
+        </div>
+        <div class="gallery-scroller" id="galleryScroller">
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-1.png" alt="Projeto de aluna 1"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-2.png" alt="Projeto de aluna 2"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-3.png" alt="Projeto de aluna 3"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-4.png" alt="Projeto de aluna 4"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-5.png" alt="Projeto de aluna 5"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-6.png" alt="Projeto de aluna 6"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-7.png" alt="Projeto de aluna 7"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-8.png" alt="Projeto de aluna 8"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-9.png" alt="Projeto de aluna 9"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-10.png" alt="Projeto de aluna 10"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-11.png" alt="Projeto de aluna 11"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-12.png" alt="Projeto de aluna 12"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-13.png" alt="Projeto de aluna 13"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-14.png" alt="Projeto de aluna 14"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-15.png" alt="Projeto de aluna 15"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-16.png" alt="Projeto de aluna 16"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-17.png" alt="Projeto de aluna 17"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-18.png" alt="Projeto de aluna 18"></div>
+            <div class="gallery-item"><img loading="lazy" src="assets/gallery-19.png" alt="Projeto de aluna 19"></div>
+        </div>
+    </section>
+
+    <!-- TESTIMONIALS -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="section-head">
+                <span class="section-tag">Depoimentos</span>
+                <h2 class="section-title">O que dizem <em>as alunas</em></h2>
+            </div>
+            <div class="testi-grid">
+                <div class="testi-card"><img loading="lazy" src="assets/testi-1.jpg" alt="Depoimento de aluna"></div>
+                <div class="testi-card"><img loading="lazy" src="assets/testi-2.jpg" alt="Depoimento de aluna"></div>
+                <div class="testi-card"><img loading="lazy" src="assets/testi-3.jpg" alt="Depoimento de aluna"></div>
+                <div class="testi-card"><img loading="lazy" src="assets/testi-4.jpg" alt="Depoimento de aluna"></div>
+                <div class="testi-card"><img loading="lazy" src="assets/testi-5.png" alt="Depoimento de aluna"></div>
+                <div class="testi-card"><img loading="lazy" src="assets/testi-6.png" alt="Depoimento de aluna"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- BONUSES -->
+    <section class="bonuses">
+        <div class="container">
+            <div class="section-head">
+                <span class="section-tag">Brindes exclusivos</span>
+                <h2 class="section-title">E você ainda ganha <em>4 bônus</em></h2>
+                <p class="section-lead">Materiais extras para acelerar seu aprendizado.</p>
+            </div>
+
+            <div class="bonus-grid">
+                <div class="bonus">
+                    <div class="bonus-img"><img loading="lazy" src="assets/bonus-1.png" alt="eBook de Riscos"></div>
+                    <div class="bonus-body">
+                        <h3>eBook de Riscos</h3>
+                        <p>Acesso a todos os desenhos e riscos usados no curso para você praticar.</p>
+                        <div class="bonus-price"><s>R$ 35,90</s> GRÁTIS</div>
+                    </div>
+                </div>
+                <div class="bonus">
+                    <div class="bonus-img"><img loading="lazy" src="assets/bonus-2.png" alt="eBook Ponto Cruz e Russo">
+                    </div>
+                    <div class="bonus-body">
+                        <h3>eBook Ponto Cruz e Russo</h3>
+                        <p>Aprenda duas técnicas extras de bordado que combinam com o curso.</p>
+                        <div class="bonus-price"><s>R$ 39,90</s> GRÁTIS</div>
+                    </div>
+                </div>
+                <div class="bonus">
+                    <div class="bonus-img"><img loading="lazy" src="assets/bonus-3.png" alt="eBook Bordado Livre"></div>
+                    <div class="bonus-body">
+                        <h3>eBook Bordado Livre</h3>
+                        <p>Guia passo a passo com técnicas e dicas para você consultar quando quiser.</p>
+                        <div class="bonus-price"><s>R$ 39,90</s> GRÁTIS</div>
+                    </div>
+                </div>
+                <div class="bonus">
+                    <div class="bonus-img"><img loading="lazy" src="assets/bonus-4.png" alt="Grupo no Whatsapp"></div>
+                    <div class="bonus-body">
+                        <h3>Grupo no Whatsapp</h3>
+                        <p>Comunidade exclusiva de alunas para tirar dúvidas e se inspirar.</p>
+                        <div class="bonus-price"><s>R$ 19,90</s> GRÁTIS</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="value-stack">
+                <p>Valor real de tudo:</p>
+                <div class="crossed">R$ 233,50</div>
+                <p>Hoje você leva por:</p>
+                <div class="new-val">R$ 19,90</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- GUARANTEE -->
+    <section class="guarantee">
+        <div class="container">
+            <div class="guarantee-box">
+                <img loading="lazy" src="assets/guarantee.webp" alt="Garantia de 7 dias">
+                <div>
+                    <h3>Garantia incondicional de 7 dias</h3>
+                    <p>Experimente o curso. Se não gostar por qualquer motivo, devolvemos <b>100% do seu dinheiro</b>,
+                        sem perguntas. O risco é todo nosso.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- MEDIA -->
+    <section class="media">
+        <div class="container">
+            <div class="section-head">
+                <span class="section-tag">Na mídia</span>
+                <h2 class="section-title">O bordado está em <em>todos os lugares</em></h2>
+            </div>
+            <div class="media-grid">
+                <img loading="lazy" src="assets/media-1.jpg" alt="Reportagem sobre bordado">
+                <img loading="lazy" src="assets/media-2.jpg" alt="Reportagem sobre bordado">
+                <img loading="lazy" src="assets/media-3.jpg" alt="Reportagem sobre bordado">
+            </div>
+        </div>
+    </section>
+
+    <!-- FINAL CTA -->
+    <section class="final-cta">
+        <div class="container">
+            <span class="section-tag">Última chance</span>
+            <h2>Comece sua <em>jornada do bordado</em> hoje</h2>
+            <p class="lead">Mais de 30 mil alunas já transformaram horas livres em arte e renda. Sua vez chegou.</p>
+
+            <div class="price-card" style="margin-bottom:20px">
+                <span class="ribbon">Economia de R$ 78,00</span>
+                <div class="old-price">De <s>R$ 97,90</s> por apenas</div>
+                <div class="price-now">R$ 19,90<small> à vista</small></div>
+                <div class="installments">ou <b>3x de R$ 6,63</b> sem juros no cartão</div>
+
+                <a href="https://app.ultimavagas.com/checkout/oferta-87af9a91" class="cta-btn" data-cta="final">
+                    QUERO MEU ACESSO AGORA <span class="arrow">→</span>
+                </a>
+
+                <div class="pay-methods">
+                    <span class="badge">💳 Cartão</span>
+                    <span class="badge">⚡ PIX</span>
+                </div>
+
+                <div class="trust-row">
+                    <span><svg viewBox="0 0 24 24">
+                            <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" stroke="currentColor" fill="none"
+                                stroke-width="2" />
+                        </svg> Acesso imediato</span>
+                    <span><svg viewBox="0 0 24 24">
+                            <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" stroke="currentColor" fill="none"
+                                stroke-width="2" />
+                        </svg> 7 dias de garantia</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="faq">
+        <div class="container">
+            <div class="section-head">
+                <span class="section-tag">Dúvidas</span>
+                <h2 class="section-title">Perguntas <em>frequentes</em></h2>
+            </div>
+            <div class="faq-list">
+                <div class="faq-item">
+                    <div class="faq-q">Como recebo o acesso após a compra?</div>
+                    <div class="faq-a">Assim que sua compra é aprovada, você recebe um e-mail automático com login e
+                        senha para acessar a área de alunas. O acesso é imediato.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q">Por quanto tempo posso assistir as aulas?</div>
+                    <div class="faq-a">O acesso é vitalício. Você pode assistir as aulas quantas vezes quiser, no seu
+                        ritmo, sem prazo de validade.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q">Funciona se eu nunca bordei antes?</div>
+                    <div class="faq-a">Sim! As aulas foram pensadas para começar do absoluto zero. Em poucos dias você
+                        já estará fazendo seus primeiros bordados.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q">Quais as formas de pagamento?</div>
+                    <div class="faq-a">Aceitamos cartão de crédito (parcelado em até 3x sem juros) e PIX (com aprovação
+                        imediata).</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q">E se eu não gostar do curso?</div>
+                    <div class="faq-a">Você tem 7 dias para testar. Se não gostar por qualquer motivo, basta solicitar o
+                        reembolso e devolvemos 100% do valor pago.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q">Assisto pelo celular?</div>
+                    <div class="faq-a">Sim. As aulas funcionam em qualquer dispositivo: celular, tablet, notebook ou
+                        computador.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="ftlinks">
+            <a href="https://app.ultimavagas.com/checkout/oferta-87af9a91">Termos &amp; Condições</a>
+            <a href="https://app.ultimavagas.com/checkout/oferta-87af9a91">Política de Privacidade</a>
+        </div>
+        <div class="copy">Todos os direitos reservados</div>
+    </footer>
+
+    <!-- Sticky bottom CTA (mobile) -->
+    <div class="sticky-bottom" id="stickyBottom">
+        <div class="sticky-bottom-inner">
+            <div class="sticky-price">
+                <div class="small"><s>R$ 97,90</s> por apenas</div>
+                <div class="big">R$ 19,90 <span
+                        style="display:block;font-size:11px;color:var(--ink-soft);font-weight:400">ou 3x R$
+                        6,63</span></div>
+            </div>
+            <a href="https://app.ultimavagas.com/checkout/oferta-87af9a91" class="cta-btn" data-cta="sticky">QUERO
+                AGORA</a>
+        </div>
+    </div>
+
+    <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+    <script>
+        // Lazy load Plyr
+        function loadVideo() {
+            var wrap = document.getElementById('videoWrap');
+            var thumb = document.getElementById('videoThumb');
+            if (thumb) {
+                var video = document.createElement('video');
+                video.src = 'assets/video.mp4';
+                video.playsinline = true;
+
+                // Replace thumb with video
+                thumb.replaceWith(video);
+
+                // Initialize Plyr
+                const player = new Plyr(video, {
+                    controls: ['play', 'progress', 'volume'],
+                    autoplay: true
+                });
+
+                if (window.dataLayer) { dataLayer.push({ event: 'video_play', video_id: 'local_video_plyr' }); }
+            }
+        }
+
+        // FAQ accordion
+        document.querySelectorAll('.faq-item').forEach(function (item) {
+            item.querySelector('.faq-q').addEventListener('click', function () {
+                item.classList.toggle('open');
+            });
+        });
+
+        // Sticky bottom CTA shows after scrolling past hero
+        (function () {
+            var sticky = document.getElementById('stickyBottom');
+            var hero = document.querySelector('.hero');
+            if (!sticky || !hero) return;
+            var threshold = hero.offsetHeight * 0.7;
+            function onScroll() {
+                if (window.scrollY > threshold) {
+                    sticky.classList.add('visible');
+                    document.body.classList.add('has-sticky');
+                } else {
+                    sticky.classList.remove('visible');
+                    document.body.classList.remove('has-sticky');
+                }
+            }
+            window.addEventListener('scroll', onScroll, { passive: true });
+            onScroll();
+        })();
+
+        // CTA tracking via GTM dataLayer
+        document.querySelectorAll('[data-cta]').forEach(function (btn) {
+            btn.addEventListener('click', function () {
+                if (window.dataLayer) {
+                    dataLayer.push({
+                        event: 'cta_click',
+                        cta_location: btn.getAttribute('data-cta'),
+                        product: 'bordado-livre',
+                        price: 19.90
+                    });
+                }
+            });
+        });
+
+        // Pageview event (extra context for GTM)
+        if (window.dataLayer) {
+            dataLayer.push({
+                event: 'page_view_lp',
+                page_type: 'landing_page',
+                product: 'bordado-livre',
+                offer_price: 19.90
+            });
+        }
+
+        // Auto-scroll gallery hint on mobile (subtle nudge)
+        (function () {
+            var gallery = document.getElementById('galleryScroller');
+            if (!gallery || window.innerWidth > 768) return;
+            var observed = false;
+            var obs = new IntersectionObserver(function (entries) {
+                entries.forEach(function (e) {
+                    if (e.isIntersecting && !observed) {
+                        observed = true;
+                        setTimeout(function () {
+                            gallery.scrollTo({ left: 60, behavior: 'smooth' });
+                            setTimeout(function () { gallery.scrollTo({ left: 0, behavior: 'smooth' }); }, 800);
+                        }, 300);
+                    }
+                });
+            }, { threshold: 0.3 });
+            obs.observe(gallery);
+        })();
+    </script>
+
+</body>
+
+</html>

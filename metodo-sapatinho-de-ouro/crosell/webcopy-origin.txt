@@ -1,0 +1,396 @@
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.23.3
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\css\widget-nested-accordion.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css?ver=3.25.11
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-pulse.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.34.0
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.34.0
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.34.0
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.34.0
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.34.0
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.8
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\themes\twentytwentyone\assets\css\print.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.8
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\themes\twentytwentyone\assets\js\responsive-embeds.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/themes/twentytwentyone/style.css?ver=1.8
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\themes\twentytwentyone\style.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/uploads/2025/05/10.png
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\uploads\2025\05\10.png
+Content Type: image/png
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/uploads/2025/05/8.png
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\uploads\2025\05\8.png
+Content Type: image/png
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/uploads/2025/05/9.png
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\uploads\2025\05\9.png
+Content Type: image/png
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/uploads/elementor/css/post-171274.css?ver=1746209550
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\uploads\elementor\css\post-171274.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/uploads/elementor/css/post-5.css?ver=1746053485
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/uploads/elementor/thumbs/1-1-r580h5rc0rkazwoghdd4ibxsvuw4azdgs54k4kzho0.png
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\uploads\elementor\thumbs\1-1-r580h5rc0rkazwoghdd4ibxsvuw4azdgs54k4kzho0.png
+Content Type: image/png
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/uploads/elementor/thumbs/2-1-r580h6p67lllbin3bvrr2tp9h8rhioh749s1luy3hs.png
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\uploads\elementor\thumbs\2-1-r580h6p67lllbin3bvrr2tp9h8rhioh749s1luy3hs.png
+Content Type: image/png
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/uploads/elementor/thumbs/3-1-r580h7n0efmvn4lq6e6dnbgq2mmuqdkxgefj34wpbk.png
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\uploads\elementor\thumbs\3-1-r580h7n0efmvn4lq6e6dnbgq2mmuqdkxgefj34wpbk.png
+Content Type: image/png
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-content/uploads/elementor/thumbs/Metodo-Viver-de-Croche-3-r55a73d220pn4a5f5s76wa1v1d2euo1u4srgx4s68a.png
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-content\uploads\elementor\thumbs\Metodo-Viver-de-Croche-3-r55a73d220pn4a5f5s76wa1v1d2euo1u4srgx4s68a.png
+Content Type: image/png
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-includes/js/comment-reply.min.js?ver=6.8.1
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://cdn-pro-002.vendd.net.br/wp-json/
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://cdn-pro-002.vendd.net.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.8.1
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://www.facebook.com/tr?id=591323119888602&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\tr
+Content Type: text/plain
+
+Uri: https://www.viverdecrochet.site/crosell
+File Name: C:\Downloaded Web Sites\www.viverdecrochet.site\crosell.html
+Content Type: text/html
+

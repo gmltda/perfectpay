@@ -1,0 +1,284 @@
+Uri: https://secure.gravatar.com/avatar/57ca8f28d6b490b088294eb8d0dea725e3591d71da8b4d982ba28cc7ffa588db?s=256&d=mm&r=g
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\avatar\57ca8f28d6b490b088294eb8d0dea725e3591d71da8b4d982ba28cc7ffa588db.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-5WM8YQSXTJ
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.wcpages.com.br/feed/
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.wcpages.com.br/pv-bolos-caseiros/
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\pv-bolos-caseiros\index.htm
+Content Type: text/html
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/cookie-notice/css/front.min.css?ver=2.5.7
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\cookie-notice\css\front.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/cookie-notice/js/front.min.js?ver=2.5.7
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\cookie-notice\js\front.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/creame-whatsapp-me/public/js/joinchat-lite.min.js?ver=5.2.4
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\creame-whatsapp-me\public\js\joinchat-lite.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.29.2
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.29.2
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.29.2
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\css\conditionals\shapes.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\css\widget-toggle.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\css\widget-video.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.min.css?ver=3.30.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-pulse-grow.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.43.0
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.6.1
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\google-analytics-for-wordpress\assets\js\frontend-gtag.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/thrive-leads/thrive-dashboard/js/dist/frontend.min.js?ver=10.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\thrive-leads\thrive-dashboard\js\dist\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/thrive-visual-editor/editor/css/images/featured_image.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\thrive-visual-editor\editor\css\images\featured_image.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/user-registration/assets/css/user-registration.css?ver=4.3.0
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\user-registration\assets\css\user-registration.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.20.0
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\plugins\wp-smushit\app\assets\js\smush-lazy-load.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.0
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\themes\generatepress\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2021/05/cropped-favicon-1-180x180.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2021\05\cropped-favicon-1-180x180.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2021/05/cropped-favicon-1-192x192.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2021\05\cropped-favicon-1-192x192.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2021/05/cropped-favicon-1-32x32.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2021\05\cropped-favicon-1-32x32.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango-150x75.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango-150x75.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango-200x100.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango-200x100.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango-220x110.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango-220x110.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango-280x140.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango-280x140.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango-300x150.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango-300x150.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango-475x238.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango-475x238.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango-750x376.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango-750x376.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango-768x385.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango-768x385.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango-80x40.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango-80x40.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/2023/02/bolo-morango.png
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\2023\02\bolo-morango.png
+Content Type: image/png
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/elementor/css/post-1131.css?ver=1745882346
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\elementor\css\post-1131.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/elementor/css/post-23770.css?ver=1745960912
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\elementor\css\post-23770.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1744935805
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\elementor\google-fonts\css\montserrat.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/elementor/google-fonts/css/nunito.css?ver=1745057476
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\elementor\google-fonts\css\nunito.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/elementor/google-fonts/css/nunitosans.css?ver=1745057474
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\elementor\google-fonts\css\nunitosans.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1744931549
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1744931551
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-content/uploads/elementor/google-fonts/css/rochester.css?ver=1745057474
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-content\uploads\elementor\google-fonts\css\rochester.css
+Content Type: text/css
+
+Uri: https://www.wcpages.com.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.wcpages.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.wcpages.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.wcpages.com.br%2Fpv-bolos-caseiros%2F
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.wcpages.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.wcpages.com.br%2Fpv-bolos-caseiros%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.wcpages.com.br/wp-json/wp/v2/pages/23770
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\wp-json\wp\v2\pages\23770
+Content Type: application/json
+
+Uri: https://www.wcpages.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.wcpages.com.br\xmlrpc.php
+Content Type: text/xml
+
