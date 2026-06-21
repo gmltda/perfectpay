@@ -1,12 +1,12 @@
-# 🌐 Hoje Hub — Central de Landing Pages & Vendas da Vaga Limitada
+# 🌐 PerfectPay Hub — Central de Landing Pages & Vendas da Vaga Limitada
 
-[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://hoje.vagalimitada.com)
-[![Custom Domain](https://img.shields.io/badge/Domain-hoje.vagalimitada.com-coral?style=for-the-badge)](https://hoje.vagalimitada.com)
+[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://perfectpay.vagalimitada.com)
+[![Custom Domain](https://img.shields.io/badge/Domain-perfectpay.vagalimitada.com-coral?style=for-the-badge)](https://perfectpay.vagalimitada.com)
 [![Analytics](https://img.shields.io/badge/Tracking-GTM%20&%20UTMify-green?style=for-the-badge&logo=google-analytics)](https://tagmanager.google.com)
 
-Bem-vindo ao repositório **Hoje Hub** (`hoje.git`). Este repositório funciona como uma central de distribuição e hospedagem de **páginas de vendas (Landing Pages) estáticas de alta conversão** para infoprodutos e cursos digitais da empresa. 
+Bem-vindo ao repositório **PerfectPay Hub** (`perfectpay.git`). Este repositório funciona como uma central de distribuição e hospedagem de **páginas de vendas (Landing Pages) estáticas de alta conversão** para infoprodutos e cursos digitais da empresa. 
 
-A hospedagem é feita de forma ultra-otimizada e sem custos de servidor utilizando o **GitHub Pages**, centralizado sob o domínio customizado **`hoje.vagalimitada.com`**.
+A hospedagem é feita de forma ultra-otimizada e sem custos de servidor utilizando o **GitHub Pages**, centralizado sob o domínio customizado **`perfectpay.vagalimitada.com`**.
 
 ---
 
@@ -15,7 +15,7 @@ A hospedagem é feita de forma ultra-otimizada e sem custos de servidor utilizan
 O projeto é estruturado de forma descentralizada. A raiz e cada subpasta correspondem a uma rota pública no domínio principal. Cada pasta contém um site estático completo (copiado e otimizado a partir de estruturas WordPress/Elementor) contendo os scripts de tracking, assets e botões de checkout específicos.
 
 ```
-                         ┌─────────── [ hoje.vagalimitada.com ] ───────────┐
+                         ┌──────── [ perfectpay.vagalimitada.com ] ────────┐
                          │                                                 │
       ┌──────────────────┼─────────────────┬─────────────────┬─────────────┴─────────────────┐
       ▼                  ▼                 ▼                 ▼                               ▼
